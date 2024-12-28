@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /files/CHANDA_DEBMALLYA_curriculum _vitae.pdf
+    url: /Research/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CHANDA_DEBMALLYA_curriculum _vitae.pdf
     
   # - title: "Guide"
   #   url: /markdown/
