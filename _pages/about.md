@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-![my profile picture](/images/deb_2.jpg){: .align-right width="200px"}
+![my profile picture](/images/deb_2.jpg){: .align-right width="120px"}
 I am a PhD student at Università Cattolica del Sacro Cuore and Bielefeld University. 
