@@ -89,18 +89,18 @@
     height: auto;
   }
 
-  img {
-    border-radius: 25px;
-    border: 2px solid #80837c;
-    padding: 20px;
-    width: 200px;
-    height: 150px;
+  // img {
+  //   border-radius: 25px;
+  //   border: 2px solid #80837c;
+  //   padding: 20px;
+  //   width: 200px;
+  //   height: 150px;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
+  //   @include breakpoint($large) {
+  //     padding: 5px;
+  //     border: 1px solid $border-color;
+  //   }
+  // }
 }
 
 .author__content {
