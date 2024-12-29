@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 ![my profile picture](/images/deb_2.jpg){: .align-right width="200px"}
-I am a PhD student at Università Cattolica del Sacro Cuore and Bielefeld University. My main research interests are in the areas of monetary policy, fiscal policy, financial friction, household heterogenity. I mainly use DSGE models to answers my research questions. 
+Welcome! I am Debmallya Chanda, a Ph.D. candidate jointly enrolled at Università Cattolica del Sacro Cuore, Italy, and Bielefeld University, Germany. My research explores the intersections of monetary policy, fiscal policy, and financial frictions, with a particular focus on household heterogeneity and its implications for macroeconomic stability. Utilizing dynamic stochastic general equilibrium (DSGE) models, I aim to provide insights into complex economic policy questions and their effects on business cycles and financial systems.
+
+Currently, I am working as an intern in the DG Economics at Deutsche Bundesbank, where I engage in research and analysis related to macroeconomic policy and its broader implications. Before pursuing my Ph.D., I earned a Master’s degree in Quantitative Economics from Université Paris 1 Panthéon-Sorbonne and a Master’s in Physics from the Indian Institute of Technology Madras. Outside of my academic and professional pursuits, I find joy in exploring the arts and artists 
