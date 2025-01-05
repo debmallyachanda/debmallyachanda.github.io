@@ -7,7 +7,7 @@ author_profile: true
 #   - /markdown.html
 ---
 
-## Locations of key files/directories
+### Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
