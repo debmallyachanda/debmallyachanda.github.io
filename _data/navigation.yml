@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /files/CHANDA_DEBMALLYA_curriculum _vitae.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+#  url: /markdown/
